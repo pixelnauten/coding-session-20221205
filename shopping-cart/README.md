@@ -29,7 +29,7 @@
 
 - Es soll ein lauffähiger Code mit den vorgebenen Klasse erstellt werden
   - Ein neuer User wird inialisiert 
-  - Die Bestandsklasse wird mit 5 Items beliebigen gefüllt
+  - Die Bestandsklasse wird mit 5 beliebigen Items gefüllt
   - Der Warenkorb des User wird mit 3 zufälligen Items aus dem Bestand gefüllt
   - Der User überprüft die Kosten seines Warenkorbs
   - Sind die Kosten höher als X werden solange Items entfernt und hinzugefügt bis die Kosten unter / gleich X sind und es genau 3 Items sind
